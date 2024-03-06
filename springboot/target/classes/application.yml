@@ -1,0 +1,14 @@
+server:
+  port: 9010
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ps_test?serverTimezone=GMT%2b8
+    username: root
+    password: 123
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 20MB
+ip: localhost
