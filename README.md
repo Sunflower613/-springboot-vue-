@@ -7,6 +7,6 @@
 ![image](showimage/社区二手交易平台社区.png)
 ![image](showimage/社区二手交易平台新建商品.png)
 ![image](showimage/社区二手交易系统物品详情.png)
-![image](showimage/社区二手交易系统购买物品.png)
+![image](showimage/社区二手交易系统购买商品.png)
 ![image](showimage/社区二手交易系统我的订单.png)
 ![image](showimage/社区二手交易平台资料修改.png)
