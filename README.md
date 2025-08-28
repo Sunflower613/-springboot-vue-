@@ -5,6 +5,7 @@
 ![image](showimage/社区二手交易平台登录.png)
 ![image](showimage/社区二手交易系统需求.png)
 ![image](showimage/社区二手交易平台社区.png)
+![image](showimage/社区二手交易平台ai推荐.png)
 ![image](showimage/社区二手交易平台新建商品.png)
 ![image](showimage/社区二手交易系统物品详情.png)
 ![image](showimage/社区二手交易系统购买商品.png)
